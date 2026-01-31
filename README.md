@@ -14,7 +14,7 @@ The framework of Margin-SNN.
 
 ## train AT-AER
  
-``nohup python main.py --cuda 0 --dataset cifar10 --savemodels ./savemodels-cifar10 --logs ./logs-cifar10 > train_cifar10.log 2>&1`` -- ( for cifar10).
+``nohup python main.py --cuda 0 --dataset cifar10 --savemodels ./savemodels-cifar10 --logs ./logs-cifar10 > train_cifar10.log 2>&1``
 
 AT-AER can be trained on other datasets in the same way as cifiar10
 
