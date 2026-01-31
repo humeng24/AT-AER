@@ -1,5 +1,5 @@
 
-# AT-AER: Adversarial Training with Adaptive Example Reuse (submitted CAAI Transactions on Intelligence Technology)
+# AT-AER: Adversarial Training with Adaptive Example Reuse (submitted to CAAI Transactions on Intelligence Technology)
 
 
 
