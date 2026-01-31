@@ -13,7 +13,7 @@ The framework of Margin-SNN.
 
 ## High-ordered AE
 
-<table?
+<table>
   <tr>
      <td> <center> <img src="figs/a0c10202-5df0-463e-b191-58a0ae6db95c.png" width=500/> (a) Progressive AE evolution of CIFAR-10 </center> </td>
      <td> <center> <img src="figs/f7e47d16-5986-4aff-824c-badb5d4c616d.png" width=500/> (a) Progressive AE evolution of CIFAR-100 </center> </td>
