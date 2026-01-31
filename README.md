@@ -25,15 +25,15 @@ The framework of Margin-SNN.
 ## Ablation of AT-AER 
 
 #### Training process of AT-AER⌝R
-<img src="figs/figs/8ec7dffc-877d-45c0-b18b-f306ce7807ab.png" width=500/>
+<img src="figs/8ec7dffc-877d-45c0-b18b-f306ce7807ab.png" width=500/>
 #### Training process of AT-AER⌝L
-<img src="figs/figs/c82788eb-7f90-4f39-ba8d-e54058f137ac.png" width=500/>
+<img src="figs/c82788eb-7f90-4f39-ba8d-e54058f137ac.png" width=500/>
 #### Training process of AT-AER⌝W
-<img src="figs/figs/30d48614-2434-49f0-9758-6b3bd021bbd5.png" width=500/>
+<img src="figs/30d48614-2434-49f0-9758-6b3bd021bbd5.png" width=500/>
 #### Training process of AT-AER⌝A
-<img src="figs/figs/fb86161f-18a9-47bc-b766-8eaf1e8231bd.png" width=500/>
+<img src="figs/fb86161f-18a9-47bc-b766-8eaf1e8231bd.png" width=500/>
 #### Training process of AT-AER
-<img src="figs/figs/02cdfcf5-ab14-40c0-8db6-cfff11cf5241.png" width=500/>
+<img src="figs/02cdfcf5-ab14-40c0-8db6-cfff11cf5241.png" width=500/>
 
 ## train AT-AER
  
