@@ -11,6 +11,10 @@ The framework of Margin-SNN.
 
 <img src="figs/framework.png" width="500"/>
 
+## High-ordered AE
+
+<img src="figs/figs/a0c10202-5df0-463e-b191-58a0ae6db95c.png.png" width=500>
+Progressive AE evolution of CIFAR-10
 
 ## train AT-AER
  
