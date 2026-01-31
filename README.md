@@ -7,7 +7,7 @@ This repository is a PyTorch implementation of the AT-AER. The paper has been su
 
 
 ## Framework
-The framework of Margin-SNN.
+The framework of AT and AT-AER.
 
 <img src="figs/framework.png" width="500"/>
 
