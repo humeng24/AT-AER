@@ -13,17 +13,23 @@ The framework of Margin-SNN.
 
 ## High-ordered AE
 
-Progressive AE evolution of CIFAR-10
+#### Progressive AE evolution of CIFAR-10
 
 <img src="figs/a0c10202-5df0-463e-b191-58a0ae6db95c.png" width=500/>
 
-Progressive AE evolution of CIFAR-100
+#### Progressive AE evolution of CIFAR-100
 
 <img src="figs/f7e47d16-5986-4aff-824c-badb5d4c616d.png" width=500/>
 
-Progressive AE evolution of SVHN
+#### Progressive AE evolution of SVHN
 
 <img src="figs/ffd6437e-a8b5-48b0-85c1-bd3ed91e7042.png" width=500/>
+
+## Ablation of AT-AER 
+
+#### Training process of AT-AER⌝R
+<img src="figs/ffd6437e-a8b5-48b0-85c1-bd3ed91e7042.png" width=500/>
+
 
 ## train AT-AER
  
