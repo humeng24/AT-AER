@@ -16,32 +16,27 @@ The framework of Margin-SNN.
 <table>
   <tr>
      <td> <center> <img src="figs/a0c10202-5df0-463e-b191-58a0ae6db95c.png" width=500/> (a) Progressive AE evolution of CIFAR-10 </center> </td>
-     <td> <center> <img src="figs/f7e47d16-5986-4aff-824c-badb5d4c616d.png" width=500/> (a) Progressive AE evolution of CIFAR-100 </center> </td>
-     <td> <center> <img src="figs/ffd6437e-a8b5-48b0-85c1-bd3ed91e7042.png" width=500/> (a) Progressive AE evolution of SVHN </center> </td>
+     <td> <center> <img src="figs/f7e47d16-5986-4aff-824c-badb5d4c616d.png" width=500/> (b) Progressive AE evolution of CIFAR-100 </center> </td>
+     <td> <center> <img src="figs/ffd6437e-a8b5-48b0-85c1-bd3ed91e7042.png" width=500/> (c) Progressive AE evolution of SVHN </center> </td>
    </tr>
 </table>
 
-#### Progressive AE evolution of CIFAR-10
-
-
-#### Progressive AE evolution of CIFAR-100
-<img src="figs/f7e47d16-5986-4aff-824c-badb5d4c616d.png" width=500/>
-
-#### Progressive AE evolution of SVHN
-<img src="figs/ffd6437e-a8b5-48b0-85c1-bd3ed91e7042.png" width=500/>
-
 ## Ablation of AT-AER 
 
-#### Training process of AT-AER⌝R
-<img src="figs/8ec7dffc-877d-45c0-b18b-f306ce7807ab.png" width=500/>
-#### Training process of AT-AER⌝L
-<img src="figs/c82788eb-7f90-4f39-ba8d-e54058f137ac.png" width=500/>
-#### Training process of AT-AER⌝W
-<img src="figs/30d48614-2434-49f0-9758-6b3bd021bbd5.png" width=500/>
-#### Training process of AT-AER⌝A
-<img src="figs/fb86161f-18a9-47bc-b766-8eaf1e8231bd.png" width=500/>
-#### Training process of AT-AER
-<img src="figs/02cdfcf5-ab14-40c0-8db6-cfff11cf5241.png" width=500/>
+<table>
+  <tr>
+     <td> <center> <img src="figs/8ec7dffc-877d-45c0-b18b-f306ce7807ab.png" width=500/> (a) Training process of AT-AER⌝R </center> </td>
+     <td> <center> <img src="figs/c82788eb-7f90-4f39-ba8d-e54058f137ac.png" width=500/> (b) Training process of AT-AER⌝L </center> </td>
+   </tr>
+  <tr>
+     <td> <center> <img src="figs/30d48614-2434-49f0-9758-6b3bd021bbd5.png" width=500/> (c) Training process of AT-AER⌝W </center> </td>
+     <td> <center> <img src="figs/fb86161f-18a9-47bc-b766-8eaf1e8231bd.png" width=500/> (d) Training process of AT-AER⌝A </center> </td>
+   </tr>
+    <tr>
+     <td><center> <img src="figs/02cdfcf5-ab14-40c0-8db6-cfff11cf5241.png" width=500/> (e) Training process of AT-AER </center></td>
+    </tr>
+</table>
+
 
 ## train AT-AER
  
