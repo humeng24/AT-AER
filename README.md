@@ -46,15 +46,6 @@ AT-AER can be trained on other datasets in the same way as cifiar10.
 
 
 
-## Citation
-```
-@article{Hu2026AT_AER,
-  author = "Meng, Hu and Yanting, Guo and Ran, Wang and Xizhao, Wang, Rihao, Li and Qin, Wang",
-  title = "AT-AER: Adversarial Training with Adaptive Example Reuse",
-  journal = "submitted to CAAI Transactions on Intelligence Technology",
-  year = "2026"
-}
-```
 
 
 
