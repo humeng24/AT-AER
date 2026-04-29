@@ -17,7 +17,7 @@ This repository provides the official PyTorch implementation of **AT-AER (Advers
 
 > **Meng Hu, Yanting Guo, Ran Wang, Xizhao Wang, Rihao Li, Qin Wang**, AT-AER: Adversarial Training With Adaptive Example Reuse, **CAAI Transactions on Intelligence Technology**, 2026, 00:1–15.
 > ## 📄 Paper Link
-> [***CAAI Transactions on Intelligence Technology (Official Publication)***](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.70121)  
+> - [***CAAI Transactions on Intelligence Technology (Official Publication)***](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.70121)  
 <!-- > 📑 [PDF Download](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/cit2.70121) -->
 
 AT-AER introduces an adaptive adversarial training framework that reuses historical adversarial examples (AEs) in a progressively optimized manner. Instead of discarding previously generated examples, AT-AER strategically integrates high-order adversarial examples into the training pipeline, significantly improving robustness and training efficiency.
