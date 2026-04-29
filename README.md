@@ -143,12 +143,8 @@ nohup python main.py --cuda 0 --dataset cifar10 --savemodels ./savemodels-cifar1
 
 ### Train on Other Datasets
 
-AT-AER can be trained on CIFAR-100, SVHN, or custom datasets using the same pipeline:
+AT-AER can be trained on CIFAR-100, SVHN, or custom datasets using the same pipeline.
 
-```bash
-python main.py --dataset cifar100
-python main.py --dataset svhn
-```
 
 ---
 
@@ -180,6 +176,8 @@ If you find this work useful, please cite:
   doi     = {10.1049/cit2.70121}
 }
 ```
+
+---
 
 ## 📬 Contact
 
