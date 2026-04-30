@@ -189,12 +189,12 @@ We sincerely thank:
 * CAAI Transactions on Intelligence Technology
 * Adversarial Machine Learning Community
 
-* ---
+---
 
 ## 📬 Contact
 
 **Meng Hu**
->  *Shenzhen University*
->  *Email: humeng@szu.edu.cn*
->  *Research Interests: Adversarial Training, Robust Learning, Uncertainty Information Processing*
-
+>  - 🌐 Address: Shenzhen University, Shenzhen, Guangdong, China
+>  - 📧 Email: humeng@szu.edu.cn
+>  - 💻 Research Interests: Adversarial Training, Robust Learning, Uncertainty Information Processing
+>  - 📄 GitHub: https://github.com/humeng24
